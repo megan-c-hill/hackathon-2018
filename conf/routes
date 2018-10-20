@@ -4,6 +4,7 @@
 
 # Home page
 GET     /                                       Application.home
+GET     /home                                   Application.home
 GET     /symptoms                               Application.symptoms
 GET     /causes                                 Application.causes
 GET     /remedies                               Application.remedies
