@@ -1,0 +1,19 @@
+h1 {
+    background-color:lightBlue;
+    text-align: center;
+    color:inherit;
+    border-style: double;
+    border-width: 10px;
+    margin-right: 10px;
+    margin-left: 200px;
+    padding: 20px;
+
+}
+
+ul {
+    text-align: left;
+    color: inherit;
+    margin-right: 500px;
+    margin-left: 500px;
+
+}
