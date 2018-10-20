@@ -290,10 +290,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="SearchEverywhereHistoryKey" value="Appli&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/controllers/Application.java&#10;routes&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/conf/routes" />
+    <property name="SearchEverywhereHistoryKey" value="causes.html&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/views/Application/causes.html&#10;cause&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/public/stylesheets/causes.css&#10;Appli&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/controllers/Application.java&#10;routes&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/conf/routes" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540060407645" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540061014771" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -332,7 +332,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16967000" />
+    <option name="totallyTimeSpent" value="17360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
