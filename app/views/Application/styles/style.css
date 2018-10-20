@@ -14,6 +14,23 @@ body{
 
 }
 
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    border-bottom: 2px solid #0f0f0f;
+}
+
+.selected {
+    color: #000585;
+    padding: 0 10px;
+}
+
+.unselected {
+    color: #0f0f0f;
+    padding: 0 10px;
+}
+
 h1 {
     margin: 0;
     padding: 20px 0;
