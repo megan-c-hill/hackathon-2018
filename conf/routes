@@ -3,12 +3,11 @@
 # ~~~~
 
 # Home page
-GET     /                                       Application.index
+GET     /                                       Application.home
 GET     /home                                   Application.home
-GET     /addNew                                 Application.addNew
-GET     /results                                Application.results
-GET     /listView                               Application.listView
-GET     /delete/{name}                          Application.delete
+GET     /symptoms                               Application.symptoms
+GET     /causes                                 Application.causes
+GET     /remedies                               Application.remedies
 
 # Ignore favicon requests
 GET     /favicon.ico                            404

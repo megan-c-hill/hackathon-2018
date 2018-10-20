@@ -9,7 +9,7 @@ import models.*;
 
 public class Application extends Controller {
 
-    public static void index() {
+    public static void causes() {
         render();
     }
 
@@ -17,4 +17,7 @@ public class Application extends Controller {
         render();
     }
 
+    public static void remedies() { render(); }
+
+    public static void symptoms() { render(); }
 }
