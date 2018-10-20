@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e851489c-3fe8-49b6-85d3-94d3ddefc463" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/views/Application/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Application/music.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_music.html" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/bytecode/DEV/_app_views_Application_music.html" afterDir="false" />
-    </list>
+    <list default="true" id="e851489c-3fe8-49b6-85d3-94d3ddefc463" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +37,7 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="css" value="665" />
-          <entry key="html" value="2309" />
+          <entry key="html" value="2317" />
           <entry key="java" value="219" />
           <entry key="routes" value="196" />
         </counts>
@@ -48,7 +45,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="665" />
-          <entry key="HTML" value="2309" />
+          <entry key="HTML" value="2317" />
           <entry key="JAVA" value="219" />
           <entry key="PLAIN_TEXT" value="196" />
         </counts>
@@ -103,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/Application/music.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="335">
-              <caret line="119" column="124" selection-start-line="119" selection-start-column="124" selection-end-line="119" selection-end-column="124" />
+            <state relative-caret-position="270">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -182,50 +179,7 @@
             <path>
               <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
               <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="Application" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="music" type="462c0819:PsiDirectoryNode" />
-              <item name="In-the-orange-garden-free-relaxing-music" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hackathon-2018" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
-              <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="hackathon-2018" type="b2602c69:ProjectViewProjectNode" />
@@ -249,7 +203,7 @@
     <property name="SearchEverywhereHistoryKey" value="anima&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/views/Application/animals.html&#10;music&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/views/Application/music.html&#10;remedies&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/views/Application/remedies.html&#10;causes.html&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/views/Application/causes.html&#10;cause&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/public/stylesheets/causes.css&#10;Appli&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/app/controllers/Application.java&#10;routes&#9;FILE&#9;file:///Users/megansISU/Desktop/MyProjects/hackathon-2018/conf/routes" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540066564132" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540066806540" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -288,7 +242,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22124000" />
+    <option name="totallyTimeSpent" value="22479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -514,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/Application/music.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="119" column="124" selection-start-line="119" selection-start-column="124" selection-end-line="119" selection-end-column="124" />
+        <state relative-caret-position="270">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
         </state>
       </provider>
     </entry>
