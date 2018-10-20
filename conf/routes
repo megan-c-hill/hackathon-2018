@@ -5,10 +5,6 @@
 # Home page
 GET     /                                       Application.index
 GET     /home                                   Application.home
-GET     /addNew                                 Application.addNew
-GET     /results                                Application.results
-GET     /listView                               Application.listView
-GET     /delete/{name}                          Application.delete
 
 # Ignore favicon requests
 GET     /favicon.ico                            404
