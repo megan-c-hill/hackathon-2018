@@ -8,6 +8,9 @@ GET     /home                                   Application.home
 GET     /symptoms                               Application.symptoms
 GET     /causes                                 Application.causes
 GET     /remedies                               Application.remedies
+GET     /remedies/funny                         Application.funny
+GET     /remedies/music                         Application.music
+GET     /remedies/animals                       Application.animals
 
 # Ignore favicon requests
 GET     /favicon.ico                            404
